@@ -1,0 +1,6 @@
+{
+
+    "version": "beta",
+    "release": "1.0",
+    "platform": ["Linux", "Windows", "MacOS"]
+}
