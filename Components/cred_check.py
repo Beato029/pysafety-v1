@@ -25,5 +25,5 @@ def try_address_port(host, port):
         return error(e) 
 
 
-a = try_address_port(HOST, PORT)
-print(a)
+# a = try_address_port(HOST, PORT)
+# print(a)

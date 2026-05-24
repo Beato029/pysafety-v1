@@ -8,6 +8,3 @@ def get_version():
         data = json.load(f)
 
     return data["version"], data["release"]
-    
-
-print(get_version()[1])
